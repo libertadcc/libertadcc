@@ -9,5 +9,6 @@
 ## Sobre mí
 
 - 🌍 Actualmente estoy trabajando como Developer Advocate en Esri España
-- 🌳 Estudié Biología y Ecología
+- 💥 Soy desarrolladora front-end
+- 🌳 Estudié Biología y un máster en Ecología
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
