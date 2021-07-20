@@ -12,3 +12,4 @@
 - 💥 Soy desarrolladora front-end
 - 🌳 Estudié Biología y un máster en Ecología
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
+- 👩‍💻 Participé en la primera edición de #Codenoobs dando una charla sobre por qué [los mapas son fáciles e importantes](https://www.youtube.com/watch?v=MiJXAksnRWA&t=11182s&ab_channel=CodeNoobs)
