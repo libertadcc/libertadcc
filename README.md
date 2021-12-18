@@ -6,10 +6,15 @@
   <a href="https://www.linkedin.com/in/libertadchapinalcervantes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Sobre mí
+## 🙋🏻‍♀️ Sobre mí
 
 - 🌍 Actualmente estoy trabajando como Developer Advocate en Esri España
 - 💥 Soy desarrolladora front-end
 - 🌳 Estudié Biología y un máster en Ecología
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
-- 👩‍💻 Participé en la primera edición de #Codenoobs dando una charla sobre por qué [los mapas son fáciles e importantes](https://www.youtube.com/watch?v=MiJXAksnRWA&t=11182s&ab_channel=CodeNoobs)
+
+## 🗣 Charlas
+- MadridJS - [Representando y analizando datos like a Pro](https://www.youtube.com/watch?v=mKkVDzUMIEU&t=900s&ab_channel=JavierV%C3%A9lez)
+- I edición [CodeNoobsConf](https://codenoobsconf.com/) - [Los mapas son fáciles e importantes](https://www.youtube.com/watch?v=MiJXAksnRWA&t=11182s&ab_channel=CodeNoobs)
+- Women4TT - [Pero, ¿dónde ocurren las cosas?](https://www.youtube.com/watch?v=ORDS_t6IlY8&t=15s&ab_channel=W4TTMujeresentecnolog%C3%ADa)
+- JIIDE 2021 - [ArcGIS Platform: PaaS para desarrolladores](https://youtu.be/nhx9TgZ_OEg?t=1910)
