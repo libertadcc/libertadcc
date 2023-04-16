@@ -18,3 +18,4 @@
 - I edición [CodeNoobsConf](https://codenoobsconf.com/) - [Los mapas son fáciles e importantes](https://www.youtube.com/watch?v=MiJXAksnRWA&t=11182s&ab_channel=CodeNoobs)
 - Women4TT - [Pero, ¿dónde ocurren las cosas?](https://www.youtube.com/watch?v=ORDS_t6IlY8&t=15s&ab_channel=W4TTMujeresentecnolog%C3%ADa)
 - JIIDE 2021 - [ArcGIS Platform: PaaS para desarrolladores](https://youtu.be/nhx9TgZ_OEg?t=1910)
+- Conferencia Esri España - [Usando Arcade con el API de JavaScript](https://www.geoexperiencecenter.com/video/usando-arcade-con-el-api-de-javascript)
