@@ -19,3 +19,4 @@
 - Women4TT - [Pero, ¿dónde ocurren las cosas?](https://www.youtube.com/watch?v=ORDS_t6IlY8&t=15s&ab_channel=W4TTMujeresentecnolog%C3%ADa)
 - JIIDE 2021 - [ArcGIS Platform: PaaS para desarrolladores](https://youtu.be/nhx9TgZ_OEg?t=1910)
 - Conferencia Esri España - [Usando Arcade con el API de JavaScript](https://www.geoexperiencecenter.com/video/usando-arcade-con-el-api-de-javascript)
+- Conferencia Esri España - [Desarrollo y ciencia de datos con ArcGIS](https://www.youtube.com/watch?v=vYl1t9Xx0dQ&list=PLoptan2utx14MdkdR29OZRMMhAhS5Xucj&index=1)
