@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://twitter.com/LibertadChC" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/libertadchapinalcervantes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://codepen.io/libertadchc" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🙋🏻‍♀️ Sobre mí
@@ -20,3 +21,5 @@
 - JIIDE 2021 - [ArcGIS Platform: PaaS para desarrolladores](https://youtu.be/nhx9TgZ_OEg?t=1910)
 - Conferencia Esri España - [Usando Arcade con el API de JavaScript](https://www.geoexperiencecenter.com/video/usando-arcade-con-el-api-de-javascript)
 - Conferencia Esri España - [Desarrollo y ciencia de datos con ArcGIS](https://www.youtube.com/watch?v=vYl1t9Xx0dQ&list=PLoptan2utx14MdkdR29OZRMMhAhS5Xucj&index=1)
+
+
