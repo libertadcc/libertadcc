@@ -10,7 +10,7 @@
 ## 🙋🏻‍♀️ Sobre mí
 
 - 🌍 Actualmente estoy trabajando como técnico de desarrollo de negocio en Esri España
-- 💥 Soy desarrolladora front-end
+- 💥 Hice un bootcamp de desarrollo front-end
 - 🌳 Estudié Biología y un máster en Ecología
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
 
