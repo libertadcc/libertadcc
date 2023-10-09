@@ -15,11 +15,12 @@
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
 
 ## 🗣 Charlas
+- Conferencia Esri España 2023 - [ArcGIS, un Sistema Corporativo Moderno](https://www.youtube.com/watch?v=qSarl-AT5-o&list=PLoptan2utx14shnaFlU03IEGRrLzLPJzP&index=7&ab_channel=EsriEspa%C3%B1a)
+- Conferencia Esri España 2022 - [Usando Arcade con el API de JavaScript](https://www.geoexperiencecenter.com/video/usando-arcade-con-el-api-de-javascript)
+- Conferencia Esri España 2022 - [Desarrollo y ciencia de datos con ArcGIS](https://www.youtube.com/watch?v=vYl1t9Xx0dQ&list=PLoptan2utx14MdkdR29OZRMMhAhS5Xucj&index=1)
 - MadridJS - [Representando y analizando datos like a Pro](https://www.youtube.com/watch?v=mKkVDzUMIEU&t=900s&ab_channel=JavierV%C3%A9lez)
 - I edición [CodeNoobsConf](https://codenoobsconf.com/) - [Los mapas son fáciles e importantes](https://www.youtube.com/watch?v=MiJXAksnRWA&t=11182s&ab_channel=CodeNoobs)
 - Women4TT - [Pero, ¿dónde ocurren las cosas?](https://www.youtube.com/watch?v=ORDS_t6IlY8&t=15s&ab_channel=W4TTMujeresentecnolog%C3%ADa)
-- JIIDE 2021 - [ArcGIS Platform: PaaS para desarrolladores](https://youtu.be/nhx9TgZ_OEg?t=1910)
-- Conferencia Esri España - [Usando Arcade con el API de JavaScript](https://www.geoexperiencecenter.com/video/usando-arcade-con-el-api-de-javascript)
-- Conferencia Esri España - [Desarrollo y ciencia de datos con ArcGIS](https://www.youtube.com/watch?v=vYl1t9Xx0dQ&list=PLoptan2utx14MdkdR29OZRMMhAhS5Xucj&index=1)
+
 
 
