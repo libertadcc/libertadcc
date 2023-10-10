@@ -16,6 +16,7 @@
 
 ## 🗣 Charlas
 - Conferencia Esri España 2023 - [ArcGIS, un Sistema Corporativo Moderno](https://www.youtube.com/watch?v=qSarl-AT5-o&list=PLoptan2utx14shnaFlU03IEGRrLzLPJzP&index=7&ab_channel=EsriEspa%C3%B1a)
+- Developer Day Esri España 2023 - [Imágenes con ArcGIS Maps SDK for JavaScript y Arcade](https://youtu.be/96qzrlfztDY?si=1b-b0BOJFuOvssqc&t=520)
 - Análitica GeoEspacial Avanzada - [Análisis de fradue](https://www.geoexperiencecenter.com/login?next=%2Fvideo%2F2-analitica-geoespacial-avanzada-analisis-de-fraude)
 - Conferencia Esri España 2022 - [Usando Arcade con el API de JavaScript](https://www.geoexperiencecenter.com/video/usando-arcade-con-el-api-de-javascript)
 - Conferencia Esri España 2022 - [Desarrollo y ciencia de datos con ArcGIS](https://www.youtube.com/watch?v=vYl1t9Xx0dQ&list=PLoptan2utx14MdkdR29OZRMMhAhS5Xucj&index=1)
