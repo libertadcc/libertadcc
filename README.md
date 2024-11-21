@@ -14,7 +14,17 @@
 - 🌳 Estudié Biología y un máster en Ecología
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
 
+## 📃 Publicaciones
+- Teledetección y Cambio Global: Retos y Oportunidades para un Crecimiento Azul. XX Congreso de la Asociación Española de Teledetección - [Estimación de pérdida de biomasa y emisiones de CO2 liberadas por el
+incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágenes satelitales basado en la nube](http://eo.csic.es/images/yootheme/aet24/Libro%20ACTAS%20XX_AET.pdf) (805-808)
+- CONAMA 2024 - [Identificación de las áreas idóneas para la nidificación de la cotorra argentina (Myiopsitta monachus) en Madrid. Análisis de la distribución global y estatal de la especie](https://www.fundacionconama.org/wp-content/uploads/conama/comunicaciones/7845/ZonasNidificacion_LibertadChapinal.pdf)
+
 ## 🗣 Charlas
+- Esri European Developer Summit 2024 (Berlín) - [ArcGIS GeoAnalytics Engine: Big Data and Spatial Analysis](https://registration.esri.com/flow/esri/24eurodev/eventportal/page/detailed-agenda/session/1724911488077001Xbg9)
+- Conferencia Esri España 2024 - [Spatial Data Science: El flujo completo para analizar tus datos](https://www.geoexperiencecenter.com/video/spatial-data-science-el-flujo-completo-para-analizar-tus-datos)
+- Conferencia Esri España 2024 - [Web components de ArcGIS Maps SDK for JavaScript](https://youtu.be/eXfrtyqbZbU?si=hypKxUbdIuLXn0CH&t=687)
+- Conferencia Esri España 2024 - [Gis4Good - GIS y ciencia](https://www.youtube.com/watch?v=zxl4nZZ2PX0&ab_channel=EsriEspa%C3%B1a)
+- XX Congreso de la Asociación Española de Teledetección 2024 - [Análisis de Imágenes basado en la nube para la evaluación de los impactos del Cambio Climático utilizando el repositorio del Living Atlas of the World de Esri](https://www.conftool.com/aet2024/index.php?page=browseSessions&form_session=20#paperID304)
 - Conferencia Esri España 2023 - [ArcGIS, un Sistema Corporativo Moderno](https://www.youtube.com/watch?v=qSarl-AT5-o&list=PLoptan2utx14shnaFlU03IEGRrLzLPJzP&index=7&ab_channel=EsriEspa%C3%B1a)
 - Conferencia Esri España 2023 - [Trabajando con datos masivos en ArcGIS](https://www.geoexperiencecenter.com/video/trabajando-con-datos-masivos-en-arcgis)
 - Developer Day Esri España 2023 - [Imágenes con ArcGIS Maps SDK for JavaScript y Arcade](https://youtu.be/96qzrlfztDY?si=1b-b0BOJFuOvssqc&t=520)
