@@ -11,7 +11,7 @@
 
 - 🌍 Actualmente estoy trabajando como ingeniera de producto en Esri España
 - 💥 Hice un bootcamp de desarrollo front-end
-- 🌳 Estudié Biología y un máster en Ecología
+- 🌳 Estudié Biología y un máster en Ecología en la Universidad Complutense de Madrid
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
 
 ## 📃 Publicaciones
