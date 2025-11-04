@@ -20,7 +20,10 @@ incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágen
 - CONAMA 2024 - [Identificación de las áreas idóneas para la nidificación de la cotorra argentina (Myiopsitta monachus) en Madrid. Análisis de la distribución global y estatal de la especie](https://www.fundacionconama.org/wp-content/uploads/conama/comunicaciones/7845/ZonasNidificacion_LibertadChapinal.pdf)
 
 ## 🗣 Charlas
-- Esri European Developer Summit 2024 (Berlín) - [ArcGIS GeoAnalytics Engine: Big Data and Spatial Analysis](https://registration.esri.com/flow/esri/24eurodev/eventportal/page/detailed-agenda/session/1724911488077001Xbg9)
+- Conferencia Esri España 2025 - [Análisis y predicción del tráfico en Segovia](https://youtu.be/i__mC0DSIa0?si=kNa3hk0tS5qRRlps&t=7165)
+- Conferencia Esri España 2025 - [CTO day - Análisis Big Data con GeoAnalytics Engine](https://www.youtube.com/watch?v=9Q3gQNOnBwk)
+- PyConES 2025 - []()
+- Esri European Developer Summit 2024 (Berlín) - ArcGIS GeoAnalytics Engine: Big Data and Spatial Analysis
 - Conferencia Esri España 2024 - [Spatial Data Science: El flujo completo para analizar tus datos](https://www.geoexperiencecenter.com/video/spatial-data-science-el-flujo-completo-para-analizar-tus-datos)
 - Conferencia Esri España 2024 - [Web components de ArcGIS Maps SDK for JavaScript](https://youtu.be/eXfrtyqbZbU?si=hypKxUbdIuLXn0CH&t=687)
 - Conferencia Esri España 2024 - [Gis4Good - GIS y ciencia](https://www.youtube.com/watch?v=zxl4nZZ2PX0&ab_channel=EsriEspa%C3%B1a)
