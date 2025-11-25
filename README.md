@@ -16,7 +16,7 @@
 
 ## 📃 Publicaciones
 - Teledetección y Cambio Global: Retos y Oportunidades para un Crecimiento Azul. XX Congreso de la Asociación Española de Teledetección - [Estimación de pérdida de biomasa y emisiones de CO2 liberadas por el
-incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágenes satelitales basado en la nube](http://eo.csic.es/images/yootheme/aet24/Libro%20ACTAS%20XX_AET.pdf) (805-808)
+incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágenes satelitales basado en la nube](https://aet.org.es/documentos/congresos/20%202024%20Cadiz/Libro%20ACTAS%20XX_AET.pdf#page=805)
 - CONAMA 2024 - [Identificación de las áreas idóneas para la nidificación de la cotorra argentina (Myiopsitta monachus) en Madrid. Análisis de la distribución global y estatal de la especie](https://www.fundacionconama.org/wp-content/uploads/conama/comunicaciones/7845/ZonasNidificacion_LibertadChapinal.pdf)
 
 ## 🗣 Charlas
