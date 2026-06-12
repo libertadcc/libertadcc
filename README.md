@@ -15,6 +15,7 @@
 - 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
 
 ## 📃 Publicaciones
+- Teledetección Multidisciplinar: Miradas Diversas, Soluciones Comunes - [Análisis de imágenes ante una catástrofe natural a diferentes escalas. El caso de la DANA en Valencia el 29 de octubre de 2024](https://revista-congresos.unex.es/index.php/CUEX/article/view/97/103)
 - Teledetección y Cambio Global: Retos y Oportunidades para un Crecimiento Azul. XX Congreso de la Asociación Española de Teledetección - [Estimación de pérdida de biomasa y emisiones de CO2 liberadas por el
 incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágenes satelitales basado en la nube](https://aet.org.es/documentos/congresos/20%202024%20Cadiz/Libro%20ACTAS%20XX_AET.pdf#page=805)
 - CONAMA 2024 - [Identificación de las áreas idóneas para la nidificación de la cotorra argentina (Myiopsitta monachus) en Madrid. Análisis de la distribución global y estatal de la especie](https://www.fundacionconama.org/wp-content/uploads/conama/comunicaciones/7845/ZonasNidificacion_LibertadChapinal.pdf)
