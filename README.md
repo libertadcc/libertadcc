@@ -21,6 +21,7 @@ incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágen
 - CONAMA 2024 - [Identificación de las áreas idóneas para la nidificación de la cotorra argentina (Myiopsitta monachus) en Madrid. Análisis de la distribución global y estatal de la especie](https://www.fundacionconama.org/wp-content/uploads/conama/comunicaciones/7845/ZonasNidificacion_LibertadChapinal.pdf)
 
 ## 🗣 Charlas
+- XXI Congreso de la Asociación Española de Teledetección 2026 - [Análisis de imágenes ante una catástrofe natural a diferentes escalas. El caso de la DANA en Valencia el 29 de octubre de 2024](https://revista-congresos.unex.es/index.php/CUEX/article/view/196/214#page=95)
 - Conferencia Esri España 2025 - [Análisis y predicción del tráfico en Segovia](https://youtu.be/i__mC0DSIa0?si=kNa3hk0tS5qRRlps&t=7165)
 - Conferencia Esri España 2025 - [CTO day - Análisis Big Data con GeoAnalytics Engine](https://www.youtube.com/watch?v=9Q3gQNOnBwk)
 - PyConES 2025 - [Análisis de un Accidente Marítimo con Python, Spark y Datos Geoespaciales](https://www.youtube.com/watch?v=HtO4Lvriw9w&list=PLahUDl6AAwrhUeEhrUC3_aFPwntWm9dYt&index=66)
