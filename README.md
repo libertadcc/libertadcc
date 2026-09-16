@@ -23,7 +23,7 @@ incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágen
 ## 🗣 Charlas
 - Conferencia Esri España 2025 - [Análisis y predicción del tráfico en Segovia](https://youtu.be/i__mC0DSIa0?si=kNa3hk0tS5qRRlps&t=7165)
 - Conferencia Esri España 2025 - [CTO day - Análisis Big Data con GeoAnalytics Engine](https://www.youtube.com/watch?v=9Q3gQNOnBwk)
-- PyConES 2025 - []()
+- PyConES 2025 - [Análisis de un Accidente Marítimo con Python, Spark y Datos Geoespaciales](https://www.youtube.com/watch?v=HtO4Lvriw9w&list=PLahUDl6AAwrhUeEhrUC3_aFPwntWm9dYt&index=66)
 - Esri European Developer Summit 2024 (Berlín) - ArcGIS GeoAnalytics Engine: Big Data and Spatial Analysis
 - Conferencia Esri España 2024 - [Spatial Data Science: El flujo completo para analizar tus datos](https://www.geoexperiencecenter.com/video/spatial-data-science-el-flujo-completo-para-analizar-tus-datos)
 - Conferencia Esri España 2024 - [Web components de ArcGIS Maps SDK for JavaScript](https://youtu.be/eXfrtyqbZbU?si=hypKxUbdIuLXn0CH&t=687)
