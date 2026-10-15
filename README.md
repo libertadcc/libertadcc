@@ -12,7 +12,7 @@
 - 🌍 Actualmente estoy trabajando como ingeniera de producto en Esri España
 - 💥 Hice un bootcamp de desarrollo front-end
 - 🌳 Estudié Biología y un máster en Ecología en la Universidad Complutense de Madrid
-- 💬 Puedes saber un poco más sobre mí en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
+- 💬 Puedes saber un poco más sobre mí (2020) en este capítulo del [podcast de Web Reactiva](https://www.danielprimo.io/blog/geodevelopers-con-libertad-chapinal)
 
 ## 📃 Publicaciones
 - Teledetección Multidisciplinar: Miradas Diversas, Soluciones Comunes - [Análisis de imágenes ante una catástrofe natural a diferentes escalas. El caso de la DANA en Valencia el 29 de octubre de 2024](https://revista-congresos.unex.es/index.php/CUEX/article/view/97/103)
@@ -23,6 +23,8 @@ incendio forestal de Tenerife 2023 mediante el análisis de datos GEDI e imágen
 ## 🗣 Charlas
 - Conferencia Esri España 2026 | Geospatial AI Summit 2026 | [MCP en ArcGIS](https://youtu.be/Q3yXcrPJ0pw?si=ABk2ruKvl84jPUBj&t=285)
 - Conferencia Esri España 2026 | [IA y GIS en acción](https://youtu.be/PW1d0yRYt5s?si=tYkotr5-gs-38P59&t=225)
+- Conferencia Esri España 2026 | [Descubre analítica espacial avanzada dentro de ArcGIS](https://www.geoexperiencecenter.com/video/descubre-analitica-espacial-avanzada-dentro-de-arcgis)
+- Conferencia Esri España 2026 | [ArcGIS Enterprise](https://www.geoexperiencecenter.com/video/arcgis-enterprise-presente-y-futuro-de-la-infraestructura-geoespacial-de-tu-organizacion)
 - XXI Congreso de la Asociación Española de Teledetección 2026 - [Análisis de imágenes ante una catástrofe natural a diferentes escalas. El caso de la DANA en Valencia el 29 de octubre de 2024](https://revista-congresos.unex.es/index.php/CUEX/article/view/196/214#page=95)
 - Conferencia Esri España 2025 - [Análisis y predicción del tráfico en Segovia](https://youtu.be/i__mC0DSIa0?si=kNa3hk0tS5qRRlps&t=7165)
 - Conferencia Esri España 2025 - [CTO day - Análisis Big Data con GeoAnalytics Engine](https://www.youtube.com/watch?v=9Q3gQNOnBwk)
